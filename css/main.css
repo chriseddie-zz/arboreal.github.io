@@ -27,9 +27,14 @@ a:hover {
 
 .response {
   font-family: Lato;
-  font-size: 12px;
-  line-height: 1;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 1px;
   color: #8A6C3C;
+}
+
+.clear {
+  padding-top: 20px;
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -46,7 +51,7 @@ a:hover {
 .wrap-input100 {
   position: relative;
   max-width: calc(100% - 10px);
-  width: 500px;
+  width: 320px;
 }
 
 .input100 {
