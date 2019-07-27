@@ -40,9 +40,6 @@ a:hover {
   position: relative;
   max-width: calc(100% - 10px);
   width: 500px;
-  z-index: 1;
-
-  /* padding-bottom: 20px; */
 }
 
 .input100 {
@@ -55,7 +52,6 @@ a:hover {
 }
 
 .focus-input100 {
-  content: '';
   display: block;
   position: absolute;
   bottom: 0;
