@@ -25,6 +25,13 @@ a:hover {
   color: #6E562F;
 }
 
+.response {
+  font-family: Lato;
+  font-size: 12px;
+  line-height: 1;
+  color: #8A6C3C;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ RS PLUGIN ]*/
 /*---------------------------------------------*/
@@ -125,7 +132,6 @@ a:hover {
   font-size: 12px;
   line-height: 1;
   color: #8A6C3C;
-  text-transform: uppercase;
 }
 
 .s2-txt2 {
