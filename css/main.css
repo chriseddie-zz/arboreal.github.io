@@ -31,10 +31,12 @@ a:hover {
   line-height: 1.2;
   letter-spacing: 1px;
   color: #8A6C3C;
+  text-align: center;
 }
 
 .clear {
   padding-top: 20px;
+  text-align: center;
 }
 
 /*//////////////////////////////////////////////////////////////////
